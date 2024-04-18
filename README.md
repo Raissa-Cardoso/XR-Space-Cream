@@ -7,7 +7,7 @@
 
 Este projeto é um site para uma sorveteria fictícia chamada Space Cream, apresentando diferentes produtos oferecidos pela sorveteria.
 
-![Imagem do página inicial do projeto](./assets/XR-Space-Cream.png)
+![Imagem do página inicial do projeto](./assets/Space-Cream.png)
 
 ## :exclamation: Pré-requisitos
 
